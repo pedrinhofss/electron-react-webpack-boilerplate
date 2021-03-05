@@ -2,7 +2,7 @@ import React from 'react'
 
 import '../assets/css/App.css'
 
-function App() {
+const App: React.FC = () => {
   return (
     <div>
       <h1 className="text-white">Hello, Electron!</h1>
