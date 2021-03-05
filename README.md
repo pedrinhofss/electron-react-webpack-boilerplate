@@ -36,7 +36,6 @@ Minimal Electron, React, PostCSS and Webpack boilerplate to help you get started
 #### Clone this repo
 
 ```
-git clone https://github.com/alexdevero/electron-react-webpack-boilerplate.git
 git clone --depth 1 --single-branch https://github.com/pedrinhofss/electron-react-webpack-boilerplate.git your-project-name
 cd your-project-name
 yarn
